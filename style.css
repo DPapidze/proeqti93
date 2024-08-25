@@ -1,0 +1,250 @@
+
+
+@font-face {
+    font-family: myfont;
+    src: url(Fonts/Roboto-Regular.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    margin: 0;
+}
+
+.a, .p1, .p2, .p3, .p4, .p5, .p6, .pp1, .pp2, .pp3, .pp4, .pp5, .pp6, .pp31, .pp51{
+    font-family: myfont;
+}
+
+.card1{
+    Width: 296.55px;
+    Height: 354.21px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0.82px 2.25px #0000001c;
+
+}
+
+.card2{
+    Width: 296.55px;
+    Height: 354.21px;
+    background-color:#FFFFFF;
+    margin-left: 20px;
+    border: 2px solid #358ed731;
+    border-radius: 8px;
+    box-shadow: 0.82px 1.65px #0000001c;
+    background-image: url(Icon-i.png);
+    background-repeat: no-repeat;
+    background-position: 255px 0px;
+}
+
+.card3{
+    Width: 296.55px;
+    Height: 354.21px;
+    background-color: #FFFFFF;
+    margin-left: 20px;
+    border-radius: 8px;
+    box-shadow: 0.82px 2.25px #0000001c;
+}
+
+
+.c11{
+    Width: 247.12px;
+    Height: 93px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.c21{
+    Width: 247.12px;
+    Height: 74px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.c31{
+    Width: 247.12px;
+    Height: 74px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.p1, .p2, .p3, .p4, .p5, .p6{
+    text-align: center;
+}
+.p1{
+    margin-top: 45px;
+    font-size: 26.36px;
+    color: #43484D;
+}
+.p2{
+    margin-top: 45px;
+    font-size: 13.18px;
+    color: #86939E;
+    margin-top: -10px;
+}
+.p3{
+    margin-top: 45px;
+    font-size: 26.36px;
+    color: #43484D;
+}
+.p4{
+    margin-top: -10px;
+    font-size: 13.18px;
+    color: #86939E;
+}
+
+.p5{
+    margin-top: 45px;
+    font-size: 26.36px;
+    color: #43484D;
+}
+
+.p6{
+    margin-top: -10px;
+    font-size: 13.18px;
+    color: #86939E;
+}
+
+.c12, .c22, .c32{
+    Width: 296.55px;
+    Height: 0.82px;
+    background-color: #e1e8ee7e;
+}
+.c12{
+    margin-top: 42px;
+}
+.c22{
+    margin-top: 60px;
+}
+
+.c32{
+    margin-top: 60px;
+}
+
+.cc1{
+    Width: 247.12px;
+    Height: 49.42px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+}
+.pp1{
+    text-align: center;
+    font-size: 42.83px;
+    color: #7DC855;
+}
+
+.pp2, .pp4, .pp6{
+    Width: 136.7px;
+    Height: 49.42px;
+    text-align: left;
+    font-size: 11.53px;
+    color: #86939E;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.cc12{
+    Width: 247.12px;
+    Height: 49.42px;
+    background-color: #7DC855;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-left: 23px;
+    margin-top: 18px;
+}
+
+.cc2{
+    Width: 247.12px;
+    Height: 49.42px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+}
+.cc22{
+    Width: 247.12px;
+    Height: 49.42px;
+    background-color: #7DC855;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-left: 23px;
+    margin-top: 18px;
+}
+
+.cc3{
+    Width: 247.12px;
+    Height: 49.42px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+}
+.cc32{
+    Width: 247.12px;
+    Height: 49.42px;
+    background-color: #7DC855;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-left: 23px;
+    margin-top: 18px;
+}
+
+.pp3, .pp5{
+    font-size: 22.24px;
+    margin-top: 10px;
+    color: #43484D;
+}
+.pp31, .pp51{
+    font-size: 42.83px;
+    margin:auto;
+    color: #43484D;
+}
+
+
+.a{
+    font-size: 45.07px;
+    color: #43484D;
+}
+.d1{
+
+    justify-content: center;
+    align-items: center;
+  
+}
+.d2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.d0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E8EFFC;
+    background-image: linear-gradient(to top left, #E8EFFC, #FFFFFF);
+}
